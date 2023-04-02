@@ -1,6 +1,7 @@
 # Random Quadratic Formula Generator
-This is a simple Flask web application that generates random quadratic formulas, provides their answers, and displays a graph. 
+<img src="https://user-images.githubusercontent.com/65854503/229357476-e2838675-5ec1-4631-beda-db93a3cf5688.png">
 
+This is a simple Flask web application that generates random quadratic formulas, provides their answers, and displays a graph.
 ## Installation
 1. Clone the repository: `git clone https://github.com/OpenSourceSimon/random-quadratic-formula-generator.git`
 2. Navigate to the project directory: `cd random-quadratic-formula-generator`
